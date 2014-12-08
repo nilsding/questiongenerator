@@ -1,0 +1,68 @@
+Do:
+  you:
+    like:
+      - social networks
+      - muffins
+      - video games
+  your:
+    friends:
+      like:
+        - you:
+          - the way you are
+        - social networks
+        - muffins
+        - video games
+      know:
+        much:
+          about:
+            - your:
+              - life
+              - hobbies
+              - family
+            - you
+What:
+  was:
+    the:
+      last:
+        thing:
+          you:
+            have:
+              - eaten
+              - done
+    your:
+      favourite:
+        song:
+          - as a 5 year old
+          - from a few weeks ago
+  would:
+    you:
+      do:
+        if:
+          you:
+            had:
+              - one million dollars
+              - the ability to fly
+            were:
+              - a dragon
+  do:
+    you:
+      think:
+        about:
+          - the:
+            - internet
+          - dragons
+  is:
+    the:
+      best: &is_the_best
+        thing:
+          about:
+            the:
+              - internet
+            your:
+              - favourite:
+                - series
+                - movie
+                - book
+              - country
+              - hometown
+      worst: *is_the_best
