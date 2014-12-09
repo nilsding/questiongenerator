@@ -4,6 +4,21 @@ Do:
       - social networks
       - muffins
       - video games
+    want:
+      - old times back
+      - to know more:
+          about:
+            - your:
+              - future
+              - relatives
+            - history
+            - new inventions
+      - more:
+        - money
+        - friends
+        - things than you need
+    think that:
+        - late is better than never
   your:
     friends:
       like:
@@ -13,56 +28,125 @@ Do:
         - muffins
         - video games
       know:
-        much:
-          about:
+        too:
+          much:
+            about: &friends_know_much
             - your:
               - life
               - hobbies
               - family
             - you
+        much:
+          about: *friends_know_much
 What:
-  was:
-    the:
-      last:
-        thing:
-          you:
-            have:
-              - eaten
-              - done
-    your:
-      favourite:
-        song:
-          - as a 5 year old
-          - from a few weeks ago
-  would:
-    you:
-      do:
-        if:
-          you:
-            had:
-              - one million dollars
-              - the ability to fly
-            were:
-              - a dragon
-  do:
-    you:
-      think:
-        about:
-          - the:
-            - internet
-          - dragons
-  is:
-    the:
-      best: &is_the_best
-        thing:
+  - was:
+      the:
+        last:
+          thing:
+            you:
+              have:
+                - eaten
+                - done
+      your:
+        favourite:
+          song:
+            - as a 5 year old
+            - from a few weeks ago
+  - would:
+      you:
+        do:
+          if:
+            you:
+              had:
+                - one million dollars
+                - the ability to fly
+              were:
+                - a dragon
+              woke up:
+                with:
+                  - someone else next to you
+                  - some drawings in your face
+  - do:
+      you:
+        think:
           about:
-            the:
+            - the:
               - internet
-            your:
-              - favourite:
-                - series
-                - movie
-                - book
-              - country
-              - hometown
-      worst: *is_the_best
+            - dragons
+            - '"fact" accounts'
+            - society
+            - cats
+            - surveillance
+  - activity: &activity
+      do:
+        you:
+          - enjoy the most
+  - activities: *activity
+  - is:
+      the:
+        best: &is_the_best
+          thing:
+            - about:
+                the:
+                  - internet
+                your:
+                  - favourite:
+                    - series
+                    - movie
+                    - book
+                  - country
+                  - hometown
+            - one can do:
+              - if:
+                - "they're bored"
+            - ever
+        worst: *is_the_best
+  - was:
+      the:
+        best: &was_the_best
+          thing:
+            - "you've eaten so far"
+        worst: *was_the_best
+  - languages do you know
+Can:
+  you:
+    - swim
+    - play:
+      - the:
+        - piano
+        - guitar
+        - trumpet
+      - baseball
+    - ski
+Have:
+  you:
+    ever:
+      - been:
+        - in:
+          - Austria
+          - Germany
+          - Japan
+          - Switzerland
+          - France
+          - Sweden
+          - Finland
+          - Australia
+          - Italy
+          - Russia
+          - China
+          - the:
+            - USA
+            - United Kingdom
+        - caught:
+          - "doing things you shouldn't do"
+          - cheating
+      - listened to:
+        - classical music
+        - music:
+          - "from the 80's"
+        - dubstep
+        - nightcore
+      - written:
+        - a love letter
+        - code
+        - in Japanese
