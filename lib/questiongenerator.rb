@@ -14,7 +14,7 @@ module QuestionGenerator
 
   def self.generate(locale = @default_locale)
     questions = YAML.load_file(File.expand_path("#{locale.to_s}.yml", @question_base_path))
-    "#{get_question(questions)}?"
+    "#{get_question(questions).strip}?"
   end
 
   private
