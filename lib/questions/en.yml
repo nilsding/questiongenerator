@@ -77,12 +77,23 @@ What:
             - society
             - cats
             - surveillance
+            - feminists
   - activity: &activity
       do:
         you:
           - enjoy the most
   - activities: *activity
   - is:
+      your:
+        - favourite:
+            website:
+              - ''
+              - and why is it:
+                - 9gag
+                - Reddit
+                - Twitter
+                - Facebook
+                - YouTube
       the:
         best: &is_the_best
           thing:
@@ -103,6 +114,12 @@ What:
         worst: *is_the_best
   - was:
       the:
+        last:
+          thing:
+            you:
+              - did
+              - ate
+              - looked for
         best: &was_the_best
           thing:
             - "you've eaten so far"
