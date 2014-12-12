@@ -1,7 +1,7 @@
 require 'yaml'
 
 module QuestionGenerator
-  VERSION = "0.0.1"
+  VERSION = "0.0.2"
 
   class << self
     attr_accessor :question_base_path
