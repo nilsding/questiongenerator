@@ -1,9 +1,20 @@
 Do:
   you:
+    have:
+      a:
+        - nickname
     like:
       - social networks
       - muffins
       - video games
+      - the:
+        - city:
+          - or:
+            - country
+          - where you:
+            - live
+      - to:
+        - travel
     want:
       - old times back
       - to know more:
@@ -68,10 +79,20 @@ What:
                   - some drawings in your face
   - do:
       you:
+        do:
+          on:
+            the:
+              - weekend
+        like:
+          more:
+            - dogs or cats
+            - shower or bath
+            - tea or coffee
         think:
           about:
             - the:
               - internet
+            - Bad Dragon
             - dragons
             - '"fact" accounts'
             - society
@@ -83,6 +104,17 @@ What:
         you:
           - enjoy the most
   - activities: *activity
+  - kind:
+      of:
+        animals:
+          - do you have
+  - habit:
+    do:
+      you:
+        really:
+          find:
+            cute:
+              - in a person?
   - is:
       your:
         - favourite:
@@ -111,6 +143,9 @@ What:
               - if:
                 - "they're bored"
             - ever
+          fast:
+            food:
+              - chain
         worst: *is_the_best
   - was:
       the:
@@ -128,13 +163,23 @@ What:
 Can:
   you:
     - swim
+    - speak:
+      - different
+        - languages
     - play:
+      - any:
+        - sports
       - the:
         - piano
         - guitar
         - trumpet
       - baseball
     - ski
+    - cook
+    - dance
+Are:
+  you:
+    - religious
 Have:
   you:
     ever:
@@ -158,13 +203,38 @@ Have:
         - caught:
           - "doing things you shouldn't do"
           - cheating
+        - mistaken for:
+          - someone else
       - listened to:
         - classical music
         - music:
           - "from the 80's"
         - dubstep
         - nightcore
+      - had:
+        - an:
+          - accident
       - written:
         - a love letter
         - code
         - in Japanese
+How:
+  old:
+    are:
+      - you
+Where:
+  do:
+    you:
+      - work
+Which:
+  food:
+    do:
+      you:
+        - love
+        - hate
+Would:
+  you:
+    rather:
+      live:
+        - in:
+          - a flat or in a house
