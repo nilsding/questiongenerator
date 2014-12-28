@@ -1,7 +1,8 @@
 Do:
   you:
     have:
-      a:
+      - pets
+      - a:
         - nickname
     like:
       - social networks
@@ -46,6 +47,7 @@ Do:
               - life
               - hobbies
               - family
+              - friends
             - you
         much:
           about: *friends_know_much
@@ -121,6 +123,7 @@ What:
             website:
               - ''
               - and why is it:
+                - 4chan
                 - 9gag
                 - Reddit
                 - Twitter
@@ -219,6 +222,10 @@ Have:
         - code
         - in Japanese
 How:
+  has:
+    your:
+      day:
+        - been
   old:
     are:
       - you
@@ -237,4 +244,5 @@ Would:
     rather:
       live:
         - in:
+          - a city or in the countryside
           - a flat or in a house
