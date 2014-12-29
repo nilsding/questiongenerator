@@ -167,7 +167,7 @@ Can:
   you:
     - swim
     - speak:
-      - different
+      - different:
         - languages
     - play:
       - any:
