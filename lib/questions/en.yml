@@ -1,9 +1,12 @@
 Do:
   you:
+    - recycle
     have:
-      - pets
       - a:
         - nickname
+      - any:
+        - siblings
+        - pets
     like:
       - social networks
       - muffins
@@ -16,6 +19,7 @@ Do:
             - live
       - to:
         - travel
+        - sing out loud when no one else is around
     want:
       - old times back
       - to know more:
@@ -31,6 +35,9 @@ Do:
         - things than you need
     think that:
         - late is better than never
+    prefer:
+      to:
+        - take baths or showers
   your:
     friends:
       like:
@@ -82,6 +89,7 @@ What:
   - do:
       you:
         do:
+          - for fun
           on:
             the:
               - weekend
@@ -119,7 +127,15 @@ What:
               - in a person?
   - is:
       your:
+        - first memory
+        - dream job
         - favourite:
+            - season
+            - video game
+            - board game
+            - sports team
+            - activity
+            - programming language
             website:
               - ''
               - and why is it:
@@ -150,6 +166,8 @@ What:
             food:
               - chain
         worst: *is_the_best
+      one:
+        - thing you would like to become better at
   - was:
       the:
         last:
@@ -239,6 +257,10 @@ Which:
       you:
         - love
         - hate
+Who:
+  is:
+    the:
+      - most famous person you have met
 Would:
   you:
     rather:
@@ -246,3 +268,7 @@ Would:
         - in:
           - a city or in the countryside
           - a flat or in a house
+      lose:
+        - an arm on a leg
+      be:
+        - the best player on a horrible team or the worst player on a great team
