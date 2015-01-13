@@ -1,13 +1,13 @@
 Do:
   you:
     - recycle
-    have:
+    - have:
       - a:
         - nickname
       - any:
         - siblings
         - pets
-    like:
+    - like:
       - social networks
       - muffins
       - video games
@@ -20,7 +20,7 @@ Do:
       - to:
         - travel
         - sing out loud when no one else is around
-    want:
+    - want:
       - old times back
       - to know more:
           about:
@@ -33,9 +33,9 @@ Do:
         - money
         - friends
         - things than you need
-    think that:
+    - think that:
         - late is better than never
-    prefer:
+    - prefer:
       to:
         - take baths or showers
   your:
@@ -90,8 +90,8 @@ What:
       you:
         do:
           - for fun
-          on:
-            the:
+          - on:
+            - the:
               - weekend
         like:
           more:
@@ -130,32 +130,32 @@ What:
         - first memory
         - dream job
         - favourite:
-            - season
-            - video game
-            - board game
-            - sports team
-            - activity
-            - beverage
-            - internet browser
-            - piece of music
-            - console
-            - retrospring developer
-            - retrospring moderator
-            - snack
-            - food
-            programming language:
-              - ''
-              and why is it:
-                - PHP
-            website:
-              - ''
-              and why is it:
-                - 4chan
-                - 9gag
-                - Reddit
-                - Twitter
-                - Facebook
-                - YouTube
+          - season
+          - video game
+          - board game
+          - sports team
+          - activity
+          - beverage
+          - internet browser
+          - piece of music
+          - console
+          - retrospring developer
+          - retrospring moderator
+          - snack
+          - food
+          - programming language:
+            - ''
+            - and why is it:
+              - PHP
+          website:
+            - ''
+            - and why is it:
+              - 4chan
+              - 9gag
+              - Reddit
+              - Twitter
+              - Facebook
+              - YouTube
       the:
         best: &is_the_best
           thing:
