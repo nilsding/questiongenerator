@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["nilsding"]
   spec.email         = ["nilsding@nilsding.org"]
   spec.summary       = %q{A simple question generator.}
-  spec.description   = %q{A simple question generator.}
-  spec.homepage      = "https://github.com/justask/questiongenerator"
+  spec.description   = %q{A simple question generator, used by Retrospring.}
+  spec.homepage      = "https://github.com/retrospring/questiongenerator"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
