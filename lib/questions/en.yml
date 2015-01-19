@@ -139,8 +139,6 @@ What:
           - internet browser
           - piece of music
           - console
-          - retrospring developer
-          - retrospring moderator
           - snack
           - food
           - programming language:
@@ -272,6 +270,10 @@ Who:
   is:
     the:
       - most famous person you have met
+    your:
+      - favourite:
+        - retrospring developer
+        - retrospring moderator
 Would:
   you:
     rather:
