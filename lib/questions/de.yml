@@ -1,0 +1,31 @@
+Was:
+  - war:
+    - das:
+      - letzte,:
+        - das:
+          - du:
+            - gegessen hast
+            - gemacht hast
+  - würdest:
+    - du:
+      - tun,:
+        - wenn:
+          - es:
+            - Drachen gäbe
+            - Weltuntergang wäre
+            - Geld regnen würde
+  - trinkst:
+    - du:
+      - gerne
+      - gerade
+  - hast:
+    - du:
+      - zuletzt:
+        - gegessen   # REDUNDANZ FTW
+        - getrunken
+Glaubst:
+  - du an:
+    - Gott
+    - Jesus
+    - das fliegende Spaghettimonster
+    - dich
