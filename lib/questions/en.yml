@@ -90,7 +90,7 @@ What:
       you:
         do:
           - for fun
-          - on:
+          - 'on':
             - the:
               - weekend
         like:
