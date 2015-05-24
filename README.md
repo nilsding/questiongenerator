@@ -71,7 +71,7 @@ Can:
 
 If you can't break sentences in parts in your language, you can also specify the entire question in one line.
 ```yml
-- Can you swim?
+- Can you swim
 
 # The following example outputs:
 # Can you swim?
