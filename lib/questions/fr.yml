@@ -15,11 +15,17 @@ Que:
   - "pensez-vous":
     - de:
       - "l'internet"
-      - Bad Dragon:
-        - la:
-          - "société"
-          - loi renseignement
-          - pornographie
+      - Bad Dragon
+      - la:
+        - "société"
+        - loi renseignement
+        - pornographie
+        - vie:
+          - en:
+            - France
+            - 2015
+          - aux:
+            - "États-Unis"
     - des:
       - dragons
       - féministes
@@ -57,6 +63,8 @@ Quel:
     - le:
       - "métier de vos rêves"
       - "plus beau cadeau qu'on ait pu vous faire"
+  - "âge":
+    - "avez-vous"
 
 Quelle:
   - est:
@@ -70,6 +78,8 @@ Quelle:
       - "console préférée"
       - "boisson préférée"
       - "activité préférée"
+      - "série préférée"
+      - "série d'animation japonaise préférée"
     - la:
       - "personne la plus célèbre que vous avez rencontrée"
   - "était":
@@ -104,6 +114,7 @@ Quelle:
           - "États-Unis"
   - une personne:
     - religieuse
+    - courageuse
 
 "Avez-vous":
   - un:
@@ -122,6 +133,7 @@ Quelle:
     - "jeux vidéo"
     - "réseaux sociaux"
     - muffins
+    - frites
   - la:
     - "pêche"
     - ville:
@@ -129,7 +141,10 @@ Quelle:
         - habitez
         - "êtes né"
   - voyager
-  - "chanter quand il n'y a personne chez vous"
+  - chanter
+    - "quand il n'y a personne chez vous"
+    - en japonais
+    - dans la rue
 
 "Pouvez-vous":
   - jouer:
