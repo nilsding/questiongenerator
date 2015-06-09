@@ -31,6 +31,10 @@ puts QuestionGenerator.generate
 # You can also specify the locale, if you want to
 puts QuestionGenerator.generate locale: :de
 # => "Was war das letzte, das du gegessen hast?"
+
+# You can also specify an own prefix or suffix:
+puts QuestionGenerator.generate locale: :fr, prefix: '[FR] ', suffix: ' ?'
+# => "[FR] Quelle est la personne la plus célèbre que vous avez rencontrée ?"
 ```
 
 ## How it works
