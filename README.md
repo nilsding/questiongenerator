@@ -1,4 +1,4 @@
-# questiongenerator
+# questiongenerator [![Build Status](https://travis-ci.org/Retrospring/questiongenerator.svg?branch=master)](https://travis-ci.org/Retrospring/questiongenerator)
 
 A simple question generator, used by Retrospring (formerly justask).
 
