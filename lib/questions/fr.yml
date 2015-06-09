@@ -15,7 +15,7 @@ Que:
   - "pensez-vous":
     - de:
       - "l'internet"
-      - Bad Dragon
+      - Bad Dragon:
         - la:
           - "société"
           - loi renseignement
@@ -85,7 +85,7 @@ Quelle:
 "Êtes-vous":
   - "déjà":
     - "allé":
-       - en:
+        - en:
           - Autriche
           - Allemagne
           - Suisse
