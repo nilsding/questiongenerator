@@ -1,0 +1,146 @@
+Que:
+  - "feriez-vous":
+    - si:
+      - vous:
+        - pouviez:
+          - voler
+          - "changer votre apparence pendant une journée"
+          - "devenir le Président de la République"
+        - aviez:
+          - "un million d'euros"
+  - "faites-vous":
+    - "le week-end"
+    - pour vous amuser
+    - "quand vous êtes en vacances"
+  - "pensez-vous":
+    - de:
+      - "l'internet"
+      - Bad Dragon
+        - la:
+          - "société"
+          - loi renseignement
+          - pornographie
+    - des:
+      - dragons
+      - féministes
+      - chats
+  - "préférez-vous":
+    - entre:
+      - "le thé et le café"
+      - les chiens et les chats
+      - le bain et la douche
+
+Quel:
+  - est:
+    - votre:
+      - premier souvenir
+      - "jeu vidéo préféré"
+      - "jeu de table préféré"
+      - "navigateur préféré"
+      - "plat préféré"
+      - "langage de programmation préféré":
+        - ''
+        - "et pourquoi est-ce":
+          - PHP
+      - "site préféré":
+        - ''
+        - "et pourquoi est-ce":
+          - 4chan
+          - 9gag
+          - Reddit
+          - Twitter
+          - Facebook
+          - YouTube
+          - Fanatic Game
+      - "modérateur Retrospring préféré"
+      - "développeur Retrospring préféré"
+    - le:
+      - "métier de vos rêves"
+      - "plus beau cadeau qu'on ait pu vous faire"
+
+Quelle:
+  - est:
+    - votre:
+      - "chanson préférée"
+      - "chiffre préféré"
+      - "couleur préférée"
+      - "saison préférée"
+      - "équipe de sport préférée"
+      - "musique préférée"
+      - "console préférée"
+      - "boisson préférée"
+      - "activité préférée"
+    - la:
+      - "personne la plus célèbre que vous avez rencontrée"
+  - "était":
+    - votre:
+      - chanson:
+          - "préférée":
+            - quand vous aviez 5 ans
+            - il y a quelques semaines
+  - la:
+    - "dernière":
+      - "chose que vous avez mangée"
+
+"Êtes-vous":
+  - "déjà":
+    - "allé":
+       - en:
+          - Autriche
+          - Allemagne
+          - Suisse
+          - France
+          - "Suède"
+          - "Norvège"
+          - Finlande
+          - Australie
+          - Italie
+          - Russie
+          - Chine
+        - au:
+          - Japon
+          - "Royaume-Uni"
+        - aux:
+          - "États-Unis"
+  - une personne:
+    - religieuse
+
+"Avez-vous":
+  - un:
+    - animal de compagnie
+    - surnom
+    - "frère ou une sœur"
+  - une:
+    - console de jeux
+  - "déjà":
+    - "écrit":
+      - "une lettre d'amour"
+      - en japonais
+
+"Aimez-vous":
+  - les:
+    - "jeux vidéo"
+    - "réseaux sociaux"
+    - muffins
+  - la:
+    - "pêche"
+    - ville:
+      - "où vous":
+        - habitez
+        - "êtes né"
+  - voyager
+  - "chanter quand il n'y a personne chez vous"
+
+"Pouvez-vous":
+  - jouer:
+    - "d'un instrument"
+    - au baseball
+    - au football
+  - nager
+  - cuisiner
+  - parler:
+    - plusieurs:
+      - langues
+
+Comment:
+  - "allez-vous"
