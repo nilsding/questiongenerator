@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
 require 'yaml'
 
 # Generates some questions.
 module QuestionGenerator
   # Version of QuestionGenerator
-  VERSION = "0.1.0"
+  VERSION = "1.0.0"
 
   class << self
     # The base path to the questions (e.g. +'/home/nilsding/questions'+).

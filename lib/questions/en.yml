@@ -61,12 +61,17 @@ Do:
 What:
   - was:
       the:
+        best:
+          - day of your life like
         last:
+          song:
+            - you listened on repeat
           thing:
             you:
               have:
-                - eaten
+                - bought
                 - done
+                - eaten
       your:
         favourite:
           song:
@@ -94,21 +99,25 @@ What:
             - the:
               - weekend
         like:
-          more:
+          more,:
             - dogs or cats
             - shower or bath
             - tea or coffee
         think:
           about:
             - the:
-              - internet
+              - Internet
             - Bad Dragon
             - dragons
             - '"fact" accounts'
             - society
             - cats
             - surveillance
-            - feminists
+            - coyotes
+            - raccoons
+            - foxes
+            - dogs
+            - lizards
   - activity: &activity
       do:
         you:
@@ -136,20 +145,25 @@ What:
           - sports team
           - activity
           - beverage
-          - internet browser
+          - Internet browser
           - piece of music
           - console
           - snack
           - food
+          - animal
           - programming language:
             - ''
             - and why is it:
               - PHP
+              - Rust
+              - C++
+              - Lisp
+              - Pascal
+              - Swift
+              - Ruby
           - website:
             - ''
             - and why is it:
-              - 4chan
-              - 9gag
               - Reddit
               - Twitter
               - Facebook
@@ -159,7 +173,7 @@ What:
           thing:
             - about:
                 the:
-                  - internet
+                  - Internet
                 your:
                   - favourite:
                     - series
@@ -190,6 +204,8 @@ What:
             - "you've eaten so far"
         worst: *was_the_best
   - languages do you know
+  - apps do you use daily
+  - 'is heavier: a kilogram of steel, or a kilogram of feathers'
 Can:
   you:
     - swim
@@ -207,6 +223,8 @@ Can:
     - ski
     - cook
     - dance
+    - yodel
+    - draw
 Are:
   you:
     - religious
@@ -241,6 +259,7 @@ Have:
           - "from the 80's"
         - dubstep
         - nightcore
+        - metal
       - had:
         - an:
           - accident
@@ -256,10 +275,14 @@ How:
   old:
     are:
       - you
+  many:
+    - open tabs do you currently have
+    - followers is too many
 Where:
   do:
     you:
       - work
+      - live
 Which:
   food:
     do:
@@ -272,8 +295,14 @@ Who:
       - most famous person you have met
     your:
       - favourite:
-        - retrospring developer
-        - retrospring moderator
+        - Retrospring user
+        - actor
+        - artist
+        - comedian
+        - musician
+Why:
+  do:
+    - they call it oven when you of in the cold food of out hot eat the food
 Would:
   you:
     rather:

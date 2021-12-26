@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 describe QuestionGenerator do
   it 'applies a prefix to a question' do
     prefix = "¿"

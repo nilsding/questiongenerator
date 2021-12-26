@@ -1,5 +1,5 @@
 questiongenerator
-Copyright (c) 2014 nilsding
+Copyright (c) 2014-2021 nilsding
 
 MIT License
 

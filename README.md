@@ -1,4 +1,4 @@
-# questiongenerator [![Build Status](https://travis-ci.org/Retrospring/questiongenerator.svg?branch=master)](https://travis-ci.org/Retrospring/questiongenerator)
+# questiongenerator
 
 A simple question generator, used by Retrospring (formerly justask).
 
@@ -10,7 +10,7 @@ Add this line to your application's Gemfile:
 
 If you're feeling _edgy_, you can add this line instead:
 
-    gem 'questiongenerator', git: 'https://github.com/retrospring/questiongenerator.git'
+    gem 'questiongenerator', git: 'https://github.com/nilsding/questiongenerator.git'
 
 ## Usage
 
@@ -87,7 +87,7 @@ The files for questions are located in `lib/questions/`
 
 If you want to add a new language, create a new file and name it with the [ISO-639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of it (just like `en.yml`)
 
-1. Fork it ( https://github.com/retrospring/questiongenerator/fork )
+1. Fork it ( https://github.com/nilsding/questiongenerator/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
