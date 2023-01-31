@@ -47,17 +47,14 @@ Do:
         - muffins
         - video games
       know:
-        too:
-          much:
-            about: &friends_know_much
+        [much, too much]:
+          about:
             - your:
               - life
               - hobbies
               - family
               - friends
             - you
-        much:
-          about: *friends_know_much
 What:
   - was:
       the:
@@ -118,11 +115,10 @@ What:
             - foxes
             - dogs
             - lizards
-  - activity: &activity
+  - [activity, activities]:
       do:
         you:
           - enjoy the most
-  - activities: *activity
   - kind:
       of:
         animals:
@@ -133,7 +129,7 @@ What:
           really:
             find:
               cute:
-                - in a person?
+                - in a person
   - is:
       your:
         - first memory
@@ -169,7 +165,7 @@ What:
               - Facebook
               - YouTube
       the:
-        best: &is_the_best
+        [best, worst]:
           thing:
             - about:
                 the:
@@ -188,7 +184,6 @@ What:
           fast:
             food:
               - chain
-        worst: *is_the_best
       one:
         - thing you would like to become better at
   - was:
@@ -199,10 +194,9 @@ What:
               - did
               - ate
               - looked for
-        best: &was_the_best
+        [best, worst]:
           thing:
             - "you've eaten so far"
-        worst: *was_the_best
   - languages do you know
   - apps do you use daily
   - 'is heavier: a kilogram of steel, or a kilogram of feathers'
@@ -219,6 +213,7 @@ Can:
         - piano
         - guitar
         - trumpet
+        - saxophone
       - baseball
     - ski
     - cook
